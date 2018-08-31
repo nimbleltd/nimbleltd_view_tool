@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+NimbleltdViewTool::Renderer.copyright 'Paul Campbell', 'All rights reserved'
+```
 
 ## Development
 
